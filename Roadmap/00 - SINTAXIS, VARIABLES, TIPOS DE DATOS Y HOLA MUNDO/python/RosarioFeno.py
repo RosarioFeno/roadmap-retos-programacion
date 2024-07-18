@@ -10,4 +10,7 @@ MY_CONSTANT = "ÑMEKFWFW"
 
 my_int = 1
 my_float = 1.5
-my_bool = 
+my_bool = True
+my_bool = False
+
+print("¡Hola Python!") 
